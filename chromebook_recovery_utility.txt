@@ -1,0 +1,1 @@
+Download and install the Chromebook Recovery Utility extension from https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm, then launch it and follow the instructions provided.

@@ -1,0 +1,13 @@
+-Restart network.
+-Ensure space.
+-Run Recovery Utility as admin.
+-Reformat or wipe the drive.
+-Format the USB drive or SD card to FAT32.
+
+Suggestions:
+-Add comments to explain each function.
+-Add error handling to each function.
+
+Additional Suggestions:
+-Consider adding comments to explain what each function does.
+-It may be helpful to add error handling to each function to handle unexpected errors.
